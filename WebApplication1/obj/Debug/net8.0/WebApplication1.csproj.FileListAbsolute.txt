@@ -257,3 +257,4 @@ D:\2442r\CFF\csharp\clothing\WebApplication1\WebApplication1\bin\Debug\net8.0\Mi
 D:\2442r\CFF\csharp\clothing\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\2442r\CFF\csharp\clothing\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\2442r\CFF\csharp\clothing\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\2442r\CFF\csharp\clothing\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
