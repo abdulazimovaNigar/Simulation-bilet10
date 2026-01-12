@@ -16,12 +16,23 @@
                     <th scope="row">@slide.Id</th>
                     <td>@slide.Title</td>
                     <td>@slide.Description</td>
-                    <td><img src="@slide.ImageURL" /></td>
+                    <td><img src="@slide.ImageURL"/></td>
                     <td><a asp-action="Update" asp-route-id="@slide.Id">Update</a></td>
-                    <td><a asp-route-id="@slide.Id">Delete</a></td>
+                    <td>
+                        <form asp-area="Admin"
+                              asp-controller="Slider"
+                              asp-action="Delete"
+                              asp-route-id="@slide.Id"
+                              method="post"
+                              style="display:inline">
+                            <button type="submit" class="btn btn-danger btn-sm">
+                                Delete
+                            </button>
+                        </form>
+                    </td>
+
                 </tr>
             }
-            
        
     </tbody>
 </table>

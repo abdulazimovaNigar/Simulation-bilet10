@@ -8,14 +8,13 @@ namespace WebApplication1.Models
 
         [Required]
         [MaxLength(32), MinLength(3)]
-       public string ProductTitle { get; set; }
-       public string ProductDescription { get; set; }
-
-
-        public string ProductImage { get; set; }
+       public string Title { get; set; }
+       public string Description { get; set; }
+       public string Image { get; set; }
 
         [Range(0, double.MaxValue)]
-       public double ProductPrice { get; set; }
+       public double Price { get; set; }
+       public int ReviewAmount { get; set; }
 
     }
 }

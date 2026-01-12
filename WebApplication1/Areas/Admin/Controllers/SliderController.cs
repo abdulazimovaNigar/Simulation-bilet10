@@ -6,9 +6,6 @@ namespace WebApplication1.Areas.Admin.Controllers;
 [Area ("Admin")]
 public class SliderController(AppDbContext _context) : Controller
 {
-
-
-    
     public IActionResult Index()
     {
         var sliders = _context.Sliders.ToList();
@@ -55,6 +52,7 @@ public class SliderController(AppDbContext _context) : Controller
         return RedirectToAction(nameof(Index));
     }
 
+
     [HttpPost]
     public IActionResult Delete(int id) 
     { 
@@ -65,4 +63,5 @@ public class SliderController(AppDbContext _context) : Controller
         _context.SaveChanges();
         return RedirectToAction(nameof(Index));
     }
+
 }

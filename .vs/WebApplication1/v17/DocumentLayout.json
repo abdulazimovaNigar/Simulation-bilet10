@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|c:\\users\\nabdu\\desktop\\mpa201-github\\exams\\bilet-10\\simulation-bilet10\\webapplication1\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|c:\\users\\nabdu\\desktop\\mpa201-github\\exams\\bilet-10\\simulation-bilet10\\webapplication1\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|c:\\users\\nabdu\\desktop\\mpa201-github\\exams\\bilet-10\\simulation-bilet10\\webapplication1\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|c:\\users\\nabdu\\desktop\\mpa201-github\\exams\\bilet-10\\simulation-bilet10\\webapplication1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 237,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 211,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +34,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T14:40:54.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T13:33:26.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwDYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:31:00.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBQAAAAlAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T12:38:21.747Z",
+              "WhenOpened": "2026-01-12T20:47:30.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\WebApplication1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\WebApplication1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T12:04:02.084Z",
+              "WhenOpened": "2026-01-12T20:45:58.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\WebApplication1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\WebApplication1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T19:31:12.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\WebApplication1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nabdu\\Desktop\\MPA201-GitHub\\exams\\Bilet-10\\Simulation-bilet10\\WebApplication1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T20:47:41.02Z",
               "EditorCaption": ""
             }
           ]
