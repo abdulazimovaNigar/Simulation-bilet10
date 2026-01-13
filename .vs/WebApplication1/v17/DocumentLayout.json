@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\viewmodels\\userviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\userviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +15,24 @@
       "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\userviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|d:\\2442r\\cff\\csharp\\clothing\\webapplication1\\webapplication1\\viewmodels\\userviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BB27FA-9F4D-45E7-9E9E-40A613F105D4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\userviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,64 +45,77 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:02:28.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-13T11:00:57.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T10:33:58.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\ViewModels\\UserViewModels\\LoginVM.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\UserViewModels\\LoginVM.cs",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\ViewModels\\UserViewModels\\LoginVM.cs",
-              "RelativeToolTip": "WebApplication1\\ViewModels\\UserViewModels\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T10:28:35.104Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:42:21.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:41:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T11:34:06.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T11:23:05.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\ViewModels\\UserViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\UserViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\ViewModels\\UserViewModels\\LoginVM.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\UserViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:28:35.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\ViewModels\\UserViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\UserViewModels\\RegisterVM.cs",
@@ -115,41 +128,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Login.cshtml",
               "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T10:13:00.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvzMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T10:12:34.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Models\\User.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
-              "ToolTip": "D:\\2442r\\CFF\\csharp\\clothing\\WebApplication1\\WebApplication1\\Models\\User.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T10:06:42.411Z",
               "EditorCaption": ""
             }
           ]
