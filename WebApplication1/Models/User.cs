@@ -5,15 +5,16 @@ namespace WebApplication1.Models
 {
     public class User : IdentityUser
     {
-        public int Id { get; set; }
+        /* public int Id { get; set; }
 
-        [Required, MinLength(3), MaxLength(32)]
-        public string Name { get; set; }
+         [Required, MinLength(3), MaxLength(32)]
 
-        [Required, EmailAddress]
-        public string Email { get; set; }
+         [Required, EmailAddress]
+         public string Email { get; set; }
+         public string Password { get; set; }
+ */
+
         [Required, MinLength(8), MaxLength(20)]
-        public string Password { get; set; }
-
+        public string Fullname { get; set; }
     }
 }
