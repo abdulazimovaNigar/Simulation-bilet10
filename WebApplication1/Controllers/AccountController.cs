@@ -17,14 +17,14 @@ namespace WebApplication1.Controllers
         {
             if (!ModelState.IsValid) return View(vm);
 
-            var existUser = _userManager.FindByNameAsync(vm.Username);
+            var existUser = await _userManager.FindByNameAsync(vm.Username);
             if (existUser is { })
             {
                 ModelState.AddModelError("Username", "This username is already exist");
                 return View(vm);
             }
 
-            existUser = _userManager.FindByEmailAsync(vm.EmailAddress);
+            existUser = await _userManager.FindByEmailAsync(vm.EmailAddress);
             if (existUser is { }) 
             {
                 ModelState.AddModelError("EmailAddress", "This email address is already being used");
